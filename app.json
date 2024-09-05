@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Argriculture",
-    "slug": "Argriculture",
+    "name": "Myanmar Argriculture",
+    "slug": "myanmar-argriculture",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/appicon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -17,20 +17,29 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/appicon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.winhtike.myanmarargriculture"
     },
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/web.png"
     },
     "plugins": [
       "expo-router"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0e4842d5-d4ed-4e37-a73c-cd20fdaf07f5"
+      }
     }
   }
 }
