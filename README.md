@@ -1,3 +1,4 @@
+
 # Welcome to Myanmar Argriculture App 👋
 
 ## Download Application Link
@@ -30,3 +31,14 @@ npm start or npx expo start
 6. For Android, Download ExpoGo on Google PlayStore but on the same wifi connection
 
 7. For Ios, Download ExpoGo on AppStore but on the same wifi connection
+
+## ဒေတာ ကိုးကားချက် 
+Title : Myanmar-Agriculture-1K 
+
+Author : Min Si Thu, Khin Myat Noe
+
+Version : 1
+
+Date : 2024-08-14
+
+[ဒေတာ ကိုးကားချက်အတွက် အပြည့်အစုံ ဆက်လက်လေ့လာရန်](https://github.com/MinSiThu/Myanmar-Agriculture-1K)
