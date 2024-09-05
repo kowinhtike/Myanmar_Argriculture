@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# Welcome to Myanmar Argriculture App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Download Application Link
+[Download Application Here](https://expo.dev/artifacts/eas/kki5uia7eM694pCXkm7d8Q.apk)
 
-## Get started
+## How to run expo project
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start or npm start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+1. Install Project
 ```bash
-npm run reset-project
+git clone https://github.com/kowinhtike/Myanmar_Argriculture.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Go to folder
+```bash
+cd Myanmar_Argriculture
+```
 
-## Learn more
+3. Install dependencies
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+4. Start the app
+```bash
+npm start or npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+5. For Web , type 'w' in command after start project
 
-## Join the community
+6. For Android, Download ExpoGo on Google PlayStore but on the same wifi connection
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+7. For Ios, Download ExpoGo on AppStore but on the same wifi connection
