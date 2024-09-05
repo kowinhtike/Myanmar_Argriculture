@@ -1,6 +1,6 @@
 
 
-# Welcome to Myanmar Argriculture App 👋
+# Welcome to Myanmar Agriculture App 👋
 ![Application Logo](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/appicon.png)
 
 ## Download Application Link
