@@ -1,8 +1,23 @@
 
+
 # Welcome to Myanmar Argriculture App 👋
 
 ## Download Application Link
 [Download Application Here](https://expo.dev/artifacts/eas/kki5uia7eM694pCXkm7d8Q.apk)
+## Project features
+မေးခွန်းများကို ဖော်ပြထားသော Home စာမျက်နာနှင့် နှင့် မိမိသဘောကျလို့
+
+သိမ်းဆည်းထားသော မေးခွန်းများကို ပြန်လည်ကြည့်ရှုနိုင်သည့် စာမျက်နာ Home တို့
+
+ပါဝင်ပါသည်။
+
+## Mobile Platform View
+![home](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/preview/mobile.png)
+
+## Web Platform View
+![home page for web](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/preview/home.png)
+
+![about page for web](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/preview/about.png)
 
 ## How to run expo project
 
