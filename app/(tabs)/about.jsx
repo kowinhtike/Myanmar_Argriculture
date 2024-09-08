@@ -6,11 +6,10 @@ import {
   Linking,
   ScrollView,
 } from "react-native";
-import React from "react";
+import React, { memo } from "react";
 import { useFonts } from "expo-font";
 import { Ionicons } from "@expo/vector-icons";
 import { aboutStyles } from "../styles/aboutStyles";
-import { useEffect } from "react";
 
 const about = () => {
 
@@ -103,4 +102,4 @@ const about = () => {
   );
 };
 
-export default about;
+export default memo(about);

@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+# Welcome to Myanmar Agriculture App 👋
+![Application Logo](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/appicon.png)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Download Application Link
+[Download Application Here](https://expo.dev/artifacts/eas/kki5uia7eM694pCXkm7d8Q.apk)
+## Project features
+မေးခွန်းများကို ဖော်ပြထားသော Home စာမျက်နာနှင့် နှင့် မိမိသဘောကျလို့
 
-## Get started
+သိမ်းဆည်းထားသော မေးခွန်းများကို ပြန်လည်ကြည့်ရှုနိုင်သည့် Favourite စာမျက်နှာ တို့
 
-1. Install dependencies
+ပါဝင်ပါသည်။
 
-   ```bash
-   npm install
-   ```
+## Mobile Platform View
+![home](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/preview/mobile.png)
 
-2. Start the app
+## Web Platform View
+![home page for web](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/preview/home.png)
 
-   ```bash
-    npx expo start or npm start
-   ```
+![about page for web](https://raw.githubusercontent.com/kowinhtike/Myanmar_Argriculture/main/assets/images/preview/about.png)
 
-In the output, you'll find options to open the app in a
+## How to run expo project
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+1. Install Project
 ```bash
-npm run reset-project
+git clone https://github.com/kowinhtike/Myanmar_Argriculture.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Go to folder
+```bash
+cd Myanmar_Argriculture
+```
 
-## Learn more
+3. Install dependencies
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+4. Start the app
+```bash
+npm start or npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+5. For Web , type 'w' in command after start project
 
-## Join the community
+6. For Android, Download ExpoGo on Google PlayStore but on the same wifi connection
 
-Join our community of developers creating universal apps.
+7. For Ios, Download ExpoGo on AppStore but on the same wifi connection
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Database citation format
+Title : Myanmar-Agriculture-1K 
+
+Author : Min Si Thu, Khin Myat Noe
+
+Version : 1
+
+Date : 2024-08-14
+
+[Learn more about this citation format ](https://github.com/MinSiThu/Myanmar-Agriculture-1K)
